@@ -1,0 +1,5 @@
+settings.py
+testdb
+test.py
+.DS_Store
+__pycache__
